@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlarmaTrading</string>
+    <string name="action_enable_alarm">Activar alarma</string>
+    <string name="action_disable_alarm">Desactivar alarma</string>
+    <string name="action_stop_sound">Detener sonido</string>
+    <string name="tone_label">Tono de alarma</string>
+    <string name="tone_default">Tono predeterminado del teléfono</string>
+    <string name="tone_my_darling">My Darling (MP3)</string>
+    <string name="tone_protegeons">Protégeons nos leaders (MP3)</string>
+    <string name="status_active">Alarma horaria activa (minuto :58)</string>
+    <string name="status_inactive">Alarma desactivada</string>
+    <string name="status_need_notifications">Permite las notificaciones para recibir el aviso de alarma.</string>
+    <string name="status_need_exact_alarm">Concede el permiso de alarmas exactas y vuelve a activar.</string>
+    <string name="next_alarm_format">Próxima alarma: %1$s</string>
+    <string name="next_alarm_none">Sin alarma programada</string>
+    <string name="notification_channel_name">AlarmaTrading cada 58 minutos</string>
+    <string name="notification_channel_desc">Reproduce el tono de alarma al llegar al minuto :58 de cada hora.</string>
+    <string name="notification_ringing_text">Minuto :58 alcanzado. Toca «Detener sonido» para silenciar.</string>
+</resources>
